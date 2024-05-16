@@ -32,4 +32,4 @@ jobs:
           context: .
           platforms: linux/arm/v7
           push: true
-          tags: remofr/python-ci:latest
+          tags: RemoFR/python-ci:latest
